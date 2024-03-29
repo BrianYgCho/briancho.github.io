@@ -117,5 +117,5 @@ skills:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Brian Cho is a Ph.D. student in the Kahlert School of Computing at the University of Utah. He began his Ph.D. studies in the fall of 2020 in the Robotics track. Prior to his Ph.D. studies, he was a research intern in the Center for Intelligent and Interactive Robotics at the Korea Institute of Science and Technology (KIST). He holds B.S. and M.S. degrees from Hanyang University, focusing on robotics and reinforcement learning. His research interests include surgical robot automation, task and motion planning, and robot learning.
+Brian Cho is a Ph.D. student in the Kahlert School of Computing at the University of Utah, advised by Dr. Alan Kuntz. He began his Ph.D. studies in the fall of 2020 in the Robotics track. Prior to his Ph.D. studies, he was a research intern in the Center for Intelligent and Interactive Robotics at the Korea Institute of Science and Technology (KIST). He holds B.S. and M.S. degrees from Hanyang University, focusing on robotics and reinforcement learning. His research interests include surgical robot automation, task and motion planning, and robot learning.
 {style="text-align: justify;"}
