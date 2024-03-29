@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Brian Cho
+title: Brian Y. Cho
 
 # Name pronunciation (optional)
 name_pronunciation: 
